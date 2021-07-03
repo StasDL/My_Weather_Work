@@ -1,0 +1,81 @@
+body {
+  font-family: "Montserrat", sans-serif;
+  color: white;
+}
+.list {
+  border: 20px solid rgba(0, 153, 255, 0.575);
+  list-style: none;
+  background-color: rgb(0, 174, 255);
+  text-align: center;
+  padding: 10px;
+  font-size: 0px;
+}
+.List_Item {
+  list-style: none;
+  margin: 5px 0;
+  display: inline-block;
+  border: white;
+  font-size: 32px;
+  width: 50%;
+}
+.span {
+  color: white;
+  font-size: 20px;
+}
+
+.Lisbon {
+  border: 4px solid white;
+  background-color: rgb(0, 174, 255);
+  width: 50%;
+}
+.Paris {
+  border: 4px solid white;
+  background-color: deepskyblue;
+  width: 25%;
+}
+.Belgrade {
+  border: 4px solid white;
+  background-color: purple;
+  width: 25%;
+}
+.Moscov {
+  border: 4px solid white;
+  background-color: rgb(253, 38, 0);
+  width: 25%;
+}
+.Tel_Aviv {
+  border: 4px solid white;
+  background-color: rgb(255, 115, 0);
+  width: 25%;
+}
+.Cair {
+  border: 4px solid white;
+  background-color: rgb(212, 212, 6);
+  width: 25%;
+}
+.New_York {
+  border: 4px solid white;
+  background-color: rgba(56, 212, 17, 0.685);
+  width: 25%;
+}
+.New_Delhi {
+  border: 4px solid white;
+  background-color: teal;
+  width: 25%;
+}
+.San_Francisco {
+  border: 4px solid white;
+  background-color: rgb(255, 57, 196);
+  width: 50%;
+}
+.Tokyo {
+  border: 4px solid white;
+  background-color: green;
+  width: 25%;
+}
+
+.Sydney {
+  border: 4px solid white;
+  background-color: rgba(128, 0, 128, 0.596);
+  width: 100%;
+}
